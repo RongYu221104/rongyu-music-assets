@@ -9,6 +9,8 @@ the website player and the independently sourced background-reading archive.
   `https://rongyu221104.github.io/rongyu-music-assets/audio/<filename>.mp3`
 - `public/music-context/` — verified Chinese artist, album, and track notes,
   including licensed portraits, source links, and a machine-readable index
+- `public/music-context/api/v1/context.json` — versioned read-only API used by
+  the website's music background panel
 
 ## Deployment
 

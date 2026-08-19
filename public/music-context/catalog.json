@@ -11,7 +11,8 @@
     "artists": "./artists.md",
     "albums": "./albums.md",
     "tracks": "./tracks.md",
-    "sources": "./sources.md"
+    "sources": "./sources.md",
+    "api": "./api/v1/context.json"
   },
   "artists": [
     {"id": "bill-evans", "name": "Bill Evans", "portrait": "./images/bill-evans-1961.jpg"},
