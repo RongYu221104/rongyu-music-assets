@@ -1,19 +1,22 @@
 # RongYu's Notes — Music Assets
 
-Media repository for RongYu's Notes. This repository stores only the MP3
-audio files served by the website player.
+Media repository for RongYu's Notes. It stores the MP3 audio files served by
+the website player and the independently sourced background-reading archive.
 
 ## Layout
 
 - `public/audio/*.mp3` — audio tracks, published at
   `https://rongyu221104.github.io/rongyu-music-assets/audio/<filename>.mp3`
+- `public/music-context/` — verified Chinese artist, album, and track notes,
+  including licensed portraits, source links, and a machine-readable index
 
 ## Deployment
 
 Pushed to `main`, the `Deploy assets to GitHub Pages` workflow publishes the
 `public/` directory through GitHub Pages (Source: GitHub Actions). The
-website repository is `RongYu221104/RongYu221104.github.io`; covers,
-metadata, and player code stay there.
+website repository is `RongYu221104/RongYu221104.github.io`; player code and
+its own UI metadata stay there. Research notes and their attributed images
+remain in this music repository.
 
 ## Adding Music
 

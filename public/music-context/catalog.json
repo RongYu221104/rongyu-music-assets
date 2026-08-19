@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-08-19",
+  "language": "zh-CN",
+  "scope": {
+    "artists": 5,
+    "albums": 6,
+    "tracks": 32
+  },
+  "documents": {
+    "artists": "./artists.md",
+    "albums": "./albums.md",
+    "tracks": "./tracks.md",
+    "sources": "./sources.md"
+  },
+  "artists": [
+    {"id": "bill-evans", "name": "Bill Evans", "portrait": "./images/bill-evans-1961.jpg"},
+    {"id": "miles-davis", "name": "Miles Davis", "portrait": "./images/miles-davis-1947.jpg"},
+    {"id": "dave-brubeck", "name": "Dave Brubeck", "portrait": "./images/dave-brubeck-quartet-1967.jpg"},
+    {"id": "paul-desmond", "name": "Paul Desmond", "portrait": "./images/dave-brubeck-paul-desmond-1954.jpg"},
+    {"id": "jim-hall", "name": "Jim Hall", "portrait": "./images/jim-hall-2010.jpg"}
+  ],
+  "albums": [
+    {"id": "from-left-to-right", "title": "From Left to Right", "artist": "Bill Evans", "trackCount": 5},
+    {"id": "kind-of-blue", "title": "Kind of Blue", "artist": "Miles Davis", "trackCount": 5},
+    {"id": "time-out", "title": "Time Out", "artist": "The Dave Brubeck Quartet", "trackCount": 7},
+    {"id": "undercurrent", "title": "Undercurrent", "artist": "Bill Evans & Jim Hall", "trackCount": 6},
+    {"id": "waltz-for-debby", "title": "Waltz for Debby", "artist": "Bill Evans Trio", "trackCount": 7},
+    {"id": "you-must-believe-in-spring", "title": "You Must Believe in Spring", "artist": "Bill Evans Trio", "trackCount": 2}
+  ]
+}
