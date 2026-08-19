@@ -129,8 +129,8 @@ def parse_artists() -> list[dict[str, object]]:
     for heading, body in sections(read("artists.md"), 2):
         name, subtitle = (part.strip() for part in heading.split("｜", 1))
         entry_paragraphs = paragraphs(body)
-        library = next((item.removeprefix("馆藏关联：") for item in entry_paragraphs if item.startswith("馆藏关联：")), "")
-        entry_paragraphs = [item for item in entry_paragraphs if not item.startswith("馆藏关联：")]
+        related = next((item.removeprefix("相关录音：") for item in entry_paragraphs if item.startswith("相关录音：")), "")
+        entry_paragraphs = [item for item in entry_paragraphs if not item.startswith("相关录音：")]
         result.append({
             "kind": "artist",
             "id": ARTIST_IDS[name],
@@ -138,7 +138,7 @@ def parse_artists() -> list[dict[str, object]]:
             "subtitle": subtitle,
             "image": public_image(body),
             "paragraphs": entry_paragraphs,
-            "meta": [{"label": "馆藏关联", "value": library}] if library else [],
+            "meta": [{"label": "相关录音", "value": related}] if related else [],
             "sourceUrl": f"{PUBLIC_BASE}/sources.md",
         })
     return result
