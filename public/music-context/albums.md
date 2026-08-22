@@ -51,3 +51,5 @@ Davis 没有安排完整排练，只向乐手提供简短的调式、旋律草�
 LiPuma 回忆，录音时三个人配合紧密，Evans 也认为专辑达到了预期状态。标题曲来自 Michel Legrand 为 1967 年电影 *The Young Girls of Rochefort* 写的旋律，英文歌词由 Alan 与 Marilyn Bergman 完成；《Theme from M*A*S*H》由 Johnny Mandel 作曲、Mike Altman 作词，是 LiPuma 建议 Evans 录制的曲目。
 
 专辑后来的献辞与 Evans 家人的离世相关。录音完成于 1977 年，其兄 Harry 于 1979 年去世，相关纪念文字在发行阶段加入。
+
+原始 LP 收录七首曲目。后来的 CD 与数字扩展版加入同批 1977 年录音中的《Without A Song》《Freddie Freeloader》与《All Of You》，网站按十首扩展版曲序收录。

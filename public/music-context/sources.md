@@ -1,6 +1,6 @@
 # 来源与图片授权
 
-核验日期：2026-08-19。优先级依次为音乐家／唱片官方资料、美国国会图书馆与 NEA 等公共机构、原始演出或唱片目录；聚合资料只用于补足曲序、逐曲日期等可交叉核对的字段。
+核验日期：2026-08-22。优先级依次为音乐家／唱片官方资料、美国国会图书馆与 NEA 等公共机构、原始演出或唱片目录；聚合资料只用于补足曲序、逐曲日期等可交叉核对的字段。
 
 ## 人物与专辑
 
@@ -11,7 +11,7 @@
 - [Craft / Concord：Waltz for Debby](https://concord.com/concord-albums/waltz-for-debby/)：录音地点、发行背景与曲目。
 - [Concord Media Kit：The Complete Village Vanguard Recordings](https://mediakits.concord.com/p/complete-village-vanguard-lp-box/press-release.html)：三重奏约 18 个月的共同发展、Orrin Keepnews 对录音的说明。
 - [Bill Evans 官方 Bandcamp：The Complete Village Vanguard Recordings, 1961](https://billevans.bandcamp.com/album/the-complete-village-vanguard-recordings-1961)：《Porgy》及全部演出曲目的 1961-06-25 日期、地点与版本关系。
-- [Bill Evans 官方：You Must Believe in Spring 再版说明](https://billevansofficial.com/news/bill-evans-posthumous-tour-de-force-you-must-believe-in-spring-set-for-reissue-on-180-gram-vinyl-sacd-cd-and-hi-res-digital-on-june-3/)：制作人、三重奏、曲目来源、Tommy LiPuma 回忆与发行背景。
+- [Bill Evans 官方：You Must Believe in Spring 再版说明](https://billevansofficial.com/news/bill-evans-posthumous-tour-de-force-you-must-believe-in-spring-set-for-reissue-on-180-gram-vinyl-sacd-cd-and-hi-res-digital-on-june-3/)：制作人、三重奏、原始七首与三首 bonus tracks 的十首扩展版曲序、发行背景。
 - [MusicBrainz：You Must Believe in Spring](https://musicbrainz.org/release/47dfc840-4dfc-4d08-be02-93a968cf658e)：1977-08-23—25、Capitol Studios、曲目署名。用于纠正常见的错误时间线。
 - [Bill Evans discography / JazzDisco](https://www.jazzdisco.org/bill-evans/catalog/)：*From Left to Right* 的跨期录音、人员与录音地。
 
@@ -51,6 +51,8 @@
 - [Apple Music：You Must Believe in Spring（Michel Legrand）](https://music.apple.com/fr/song/1452574483?l=en-GB)：Legrand 作曲、Bergman 夫妇英文词及 *Les Demoiselles de Rochefort* 来源。
 - [AFI Catalog：M*A*S*H](https://catalog.afi.com/Catalog/moviedetails/23421)：1970 年电影及 Johnny Mandel／Mike Altman 署名。
 - [密歇根大学 Robert Altman 档案：Songs & Rights](https://apps.lib.umich.edu/online-exhibits/exhibits/show/altman/altmanesque-sound---music/songs---rights)：Mike Altman 的原始歌词材料与少年写作背景。
+- [IBDB：Silk Stockings](https://www.ibdb.com/broadway-production/silk-stockings-2505)：Cole Porter 的 *All Of You* 舞台来源。
+- [IBDB：Great Day](https://www.ibdb.com/broadway-production/great-day-11220)：*Without A Song* 的 1929 年舞台来源与署名。
 
 ## 图片清单与许可
 

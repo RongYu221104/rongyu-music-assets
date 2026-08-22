@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-08-19",
+  "verifiedAt": "2026-08-22",
   "language": "zh-CN",
   "sourcesUrl": "/rongyu-music-assets/music-context/sources.md",
   "artists": [
@@ -201,7 +201,8 @@
       "paragraphs": [
         "You Must Believe in Spring 录于 1977 年 8 月 23—25 日，地点是洛杉矶 Capitol Studios，由 Bill Evans、Eddie Gómez、Eliot Zigmund 组成三重奏，Helen Keane 与 Tommy LiPuma 制作。唱片到 1981 年、Evans 去世后才发行，因此常被置于他生命末期的叙事中；实际录音完成于 1977 年。",
         "LiPuma 回忆，录音时三个人配合紧密，Evans 也认为专辑达到了预期状态。标题曲来自 Michel Legrand 为 1967 年电影 The Young Girls of Rochefort 写的旋律，英文歌词由 Alan 与 Marilyn Bergman 完成；《Theme from MASH》由 Johnny Mandel 作曲、Mike Altman 作词，是 LiPuma 建议 Evans 录制的曲目。",
-        "专辑后来的献辞与 Evans 家人的离世相关。录音完成于 1977 年，其兄 Harry 于 1979 年去世，相关纪念文字在发行阶段加入。"
+        "专辑后来的献辞与 Evans 家人的离世相关。录音完成于 1977 年，其兄 Harry 于 1979 年去世，相关纪念文字在发行阶段加入。",
+        "原始 LP 收录七首曲目。后来的 CD 与数字扩展版加入同批 1977 年录音中的《Without A Song》《Freddie Freeloader》与《All Of You》，网站按十首扩展版曲序收录。"
       ],
       "meta": [],
       "sourceUrl": "/rongyu-music-assets/music-context/sources.md"
@@ -846,6 +847,26 @@
     },
     {
       "kind": "track",
+      "id": "b-minor-waltz",
+      "title": "B Minor Waltz（For Ellaine）",
+      "albumId": "you-must-believe-in-spring",
+      "paragraphs": [
+        "这首圆舞曲由 Evans 写作，题名的副标题为“For Ellaine”。它列在原始 LP 的开首，由钢琴、Eddie Gómez 的低音提琴与 Eliot Zigmund 的鼓演奏。"
+      ],
+      "meta": [
+        {
+          "label": "创作者",
+          "value": "Bill Evans（曲）。"
+        },
+        {
+          "label": "录音",
+          "value": "1977-08-23—25，Capitol Studios，洛杉矶。"
+        }
+      ],
+      "sourceUrl": "/rongyu-music-assets/music-context/sources.md"
+    },
+    {
+      "kind": "track",
       "id": "you-must-believe-in-spring",
       "title": "You Must Believe in Spring",
       "albumId": "you-must-believe-in-spring",
@@ -860,6 +881,86 @@
         {
           "label": "原作",
           "value": "Legrand 为 1967 年电影 The Young Girls of Rochefort 所写《Chanson de Maxence》的英文歌曲版本。"
+        },
+        {
+          "label": "录音",
+          "value": "1977-08-23—25，Capitol Studios，洛杉矶。"
+        }
+      ],
+      "sourceUrl": "/rongyu-music-assets/music-context/sources.md"
+    },
+    {
+      "kind": "track",
+      "id": "garys-theme",
+      "title": "Gary’s Theme",
+      "albumId": "you-must-believe-in-spring",
+      "paragraphs": [
+        "Gary McFarland 是美国作曲家、编曲家与颤音琴演奏者。Evans 曾参与 McFarland 在 1963 年的录音；这首作品由 1977 年三重奏录制，列在原始 LP 的第三首。"
+      ],
+      "meta": [
+        {
+          "label": "创作者",
+          "value": "Gary McFarland（曲）。"
+        },
+        {
+          "label": "录音",
+          "value": "1977-08-23—25，Capitol Studios，洛杉矶。"
+        }
+      ],
+      "sourceUrl": "/rongyu-music-assets/music-context/sources.md"
+    },
+    {
+      "kind": "track",
+      "id": "we-will-meet-again",
+      "title": "We Will Meet Again（For Harry）",
+      "albumId": "you-must-believe-in-spring",
+      "paragraphs": [
+        "这首曲子由 Evans 写作，后来的发行将副标题标为“For Harry”。录音完成于 1977 年；Harry Evans 于 1979 年去世，唱片则在 1981 年发行。"
+      ],
+      "meta": [
+        {
+          "label": "创作者",
+          "value": "Bill Evans（曲）。"
+        },
+        {
+          "label": "录音",
+          "value": "1977-08-23—25，Capitol Studios，洛杉矶。"
+        }
+      ],
+      "sourceUrl": "/rongyu-music-assets/music-context/sources.md"
+    },
+    {
+      "kind": "track",
+      "id": "the-peacocks",
+      "title": "The Peacocks",
+      "albumId": "you-must-believe-in-spring",
+      "paragraphs": [
+        "Jimmy Rowles 写作的《The Peacocks》后来成为爵士乐手常演奏的曲目。Evans 的版本由三重奏完成，位于原始 LP 的第二面开首。"
+      ],
+      "meta": [
+        {
+          "label": "创作者",
+          "value": "Jimmy Rowles（曲）。"
+        },
+        {
+          "label": "录音",
+          "value": "1977-08-23—25，Capitol Studios，洛杉矶。"
+        }
+      ],
+      "sourceUrl": "/rongyu-music-assets/music-context/sources.md"
+    },
+    {
+      "kind": "track",
+      "id": "sometime-ago",
+      "title": "Sometime Ago",
+      "albumId": "you-must-believe-in-spring",
+      "paragraphs": [
+        "Sergio Mihanovich 是阿根廷钢琴家与作曲家。这首歌在 Evans 的版本中保持器乐三重奏编制，原始 LP 曲序排在《The Peacocks》之后。"
+      ],
+      "meta": [
+        {
+          "label": "创作者",
+          "value": "Sergio Mihanovich（曲）。"
         },
         {
           "label": "录音",
@@ -888,6 +989,78 @@
         {
           "label": "录音",
           "value": "1977-08-23—25，Capitol Studios，洛杉矶。"
+        }
+      ],
+      "sourceUrl": "/rongyu-music-assets/music-context/sources.md"
+    },
+    {
+      "kind": "track",
+      "id": "without-a-song",
+      "title": "Without A Song",
+      "albumId": "you-must-believe-in-spring",
+      "paragraphs": [
+        "《Without A Song》在 1929 年出版，后来成为美国流行歌曲与爵士标准曲。Evans 的版本属于同批录音，未列入 1981 年原始 LP，后由扩展版加入曲序。"
+      ],
+      "meta": [
+        {
+          "label": "创作者",
+          "value": "Vincent Youmans（曲）、Billy Rose、Edward Eliscu（词）。"
+        },
+        {
+          "label": "原作",
+          "value": "1929 年音乐剧 Great Day。"
+        },
+        {
+          "label": "录音",
+          "value": "1977-08-23—25，Capitol Studios，洛杉矶；后收入扩展版。"
+        }
+      ],
+      "sourceUrl": "/rongyu-music-assets/music-context/sources.md"
+    },
+    {
+      "kind": "track",
+      "id": "freddie-freeloader-evans",
+      "title": "Freddie Freeloader",
+      "albumId": "you-must-believe-in-spring",
+      "paragraphs": [
+        "Miles Davis 的原作采用十二小节布鲁斯结构。1959 年 Kind of Blue 的录音由 Wynton Kelly 弹钢琴；Evans 在 1977 年以自己的三重奏重新录制此曲，作为扩展版 bonus track 发行。"
+      ],
+      "meta": [
+        {
+          "label": "创作者",
+          "value": "Miles Davis（曲）。"
+        },
+        {
+          "label": "原作",
+          "value": "1959 年 Kind of Blue。"
+        },
+        {
+          "label": "录音",
+          "value": "1977-08-23—25，Capitol Studios，洛杉矶；后收入扩展版。"
+        }
+      ],
+      "sourceUrl": "/rongyu-music-assets/music-context/sources.md"
+    },
+    {
+      "kind": "track",
+      "id": "all-of-you",
+      "title": "All Of You",
+      "albumId": "you-must-believe-in-spring",
+      "paragraphs": [
+        "《All Of You》出自 Cole Porter 为 Silk Stockings 写作的歌曲。Evans 的三重奏版本录于 1977 年，未列入原始 LP，后与另外两首同批录音一起收入扩展版。"
+      ],
+      "meta": [
+        {
+          "label": "创作者",
+          "value": "Cole Porter（词曲）。"
+        },
+        {
+          "label": "原作",
+          "value": "1954 年音乐剧 Silk Stockings。"
+        },
+        {
+          "label": "录音",
+          "value": "1977-08-23—25，Capitol Studios，洛杉矶；后收入扩展版。"
         }
       ],
       "sourceUrl": "/rongyu-music-assets/music-context/sources.md"

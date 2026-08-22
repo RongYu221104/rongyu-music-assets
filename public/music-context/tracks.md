@@ -233,7 +233,14 @@ Davis 于 1958 年录制这首调式作品。曾在 Davis 乐队中演奏过它�
 
 ## You Must Believe in Spring
 
-### 1. You Must Believe in Spring
+### 1. B Minor Waltz（For Ellaine）
+
+**创作者**：Bill Evans（曲）。<br>
+**录音**：1977-08-23—25，Capitol Studios，洛杉矶。
+
+这首圆舞曲由 Evans 写作，题名的副标题为“For Ellaine”。它列在原始 LP 的开首，由钢琴、Eddie Gómez 的低音提琴与 Eliot Zigmund 的鼓演奏。
+
+### 2. You Must Believe in Spring
 
 **创作者**：Michel Legrand（曲）；Alan Bergman、Marilyn Bergman（英文词）。<br>
 **原作**：Legrand 为 1967 年电影 *The Young Girls of Rochefort* 所写《Chanson de Maxence》的英文歌曲版本。<br>
@@ -241,10 +248,62 @@ Davis 于 1958 年录制这首调式作品。曾在 Davis 乐队中演奏过它�
 
 英文歌词以冬去春来表达对爱与更新的信念。Evans 录制的是器乐版本。制作人 Tommy LiPuma 回忆，这次录音中三重奏配合紧密；Evans 也表示，成品达到了他们的目标。录音完成于 1977 年，早于其兄 Harry 1979 年去世。
 
-### 2. Theme from M*A*S*H（Suicide Is Painless）
+### 3. Gary’s Theme
+
+**创作者**：Gary McFarland（曲）。<br>
+**录音**：1977-08-23—25，Capitol Studios，洛杉矶。
+
+Gary McFarland 是美国作曲家、编曲家与颤音琴演奏者。Evans 曾参与 McFarland 在 1963 年的录音；这首作品由 1977 年三重奏录制，列在原始 LP 的第三首。
+
+### 4. We Will Meet Again（For Harry）
+
+**创作者**：Bill Evans（曲）。<br>
+**录音**：1977-08-23—25，Capitol Studios，洛杉矶。
+
+这首曲子由 Evans 写作，后来的发行将副标题标为“For Harry”。录音完成于 1977 年；Harry Evans 于 1979 年去世，唱片则在 1981 年发行。
+
+### 5. The Peacocks
+
+**创作者**：Jimmy Rowles（曲）。<br>
+**录音**：1977-08-23—25，Capitol Studios，洛杉矶。
+
+Jimmy Rowles 写作的《The Peacocks》后来成为爵士乐手常演奏的曲目。Evans 的版本由三重奏完成，位于原始 LP 的第二面开首。
+
+### 6. Sometime Ago
+
+**创作者**：Sergio Mihanovich（曲）。<br>
+**录音**：1977-08-23—25，Capitol Studios，洛杉矶。
+
+Sergio Mihanovich 是阿根廷钢琴家与作曲家。这首歌在 Evans 的版本中保持器乐三重奏编制，原始 LP 曲序排在《The Peacocks》之后。
+
+### 7. Theme from M*A*S*H（Suicide Is Painless）
 
 **创作者**：Johnny Mandel（曲）、Mike Altman（词）。<br>
 **原作**：Robert Altman 1970 年电影 *M*A*S*H*；导演尚是少年的儿子 Mike 应要求写下歌词。<br>
 **录音**：1977-08-23—25，Capitol Studios，洛杉矶。
 
 Tommy LiPuma 建议 Evans 演奏这首电影主题。原歌歌词以黑色幽默描写战争，Evans 录制的是钢琴三重奏器乐版本。录音完成于 1977 年，唱片于 1981 年发行。
+
+### 8. Without A Song
+
+**创作者**：Vincent Youmans（曲）、Billy Rose、Edward Eliscu（词）。<br>
+**原作**：1929 年音乐剧 *Great Day*。<br>
+**录音**：1977-08-23—25，Capitol Studios，洛杉矶；后收入扩展版。
+
+《Without A Song》在 1929 年出版，后来成为美国流行歌曲与爵士标准曲。Evans 的版本属于同批录音，未列入 1981 年原始 LP，后由扩展版加入曲序。
+
+### 9. Freddie Freeloader
+
+**创作者**：Miles Davis（曲）。<br>
+**原作**：1959 年 *Kind of Blue*。<br>
+**录音**：1977-08-23—25，Capitol Studios，洛杉矶；后收入扩展版。
+
+Miles Davis 的原作采用十二小节布鲁斯结构。1959 年 *Kind of Blue* 的录音由 Wynton Kelly 弹钢琴；Evans 在 1977 年以自己的三重奏重新录制此曲，作为扩展版 bonus track 发行。
+
+### 10. All Of You
+
+**创作者**：Cole Porter（词曲）。<br>
+**原作**：1954 年音乐剧 *Silk Stockings*。<br>
+**录音**：1977-08-23—25，Capitol Studios，洛杉矶；后收入扩展版。
+
+《All Of You》出自 Cole Porter 为 *Silk Stockings* 写作的歌曲。Evans 的三重奏版本录于 1977 年，未列入原始 LP，后与另外两首同批录音一起收入扩展版。

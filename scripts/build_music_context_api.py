@@ -78,8 +78,16 @@ TRACK_IDS = {
         "porgy",
     ],
     "you-must-believe-in-spring": [
+        "b-minor-waltz",
         "you-must-believe-in-spring",
+        "garys-theme",
+        "we-will-meet-again",
+        "the-peacocks",
+        "sometime-ago",
         "theme-from-mash",
+        "without-a-song",
+        "freddie-freeloader-evans",
+        "all-of-you",
     ],
 }
 
