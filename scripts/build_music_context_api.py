@@ -25,6 +25,7 @@ ALBUM_IDS = {
     "Undercurrent": "undercurrent",
     "Waltz for Debby": "waltz-for-debby",
     "You Must Believe in Spring": "you-must-believe-in-spring",
+    "In a Silent Way": "in-a-silent-way",
 }
 
 ALBUM_ARTISTS = {
@@ -34,6 +35,7 @@ ALBUM_ARTISTS = {
     "undercurrent": ["bill-evans", "jim-hall"],
     "waltz-for-debby": ["bill-evans"],
     "you-must-believe-in-spring": ["bill-evans"],
+    "in-a-silent-way": ["miles-davis"],
 }
 
 TRACK_IDS = {
@@ -88,6 +90,10 @@ TRACK_IDS = {
         "without-a-song",
         "freddie-freeloader-evans",
         "all-of-you",
+    ],
+    "in-a-silent-way": [
+        "shhh-peaceful",
+        "in-a-silent-way",
     ],
 }
 

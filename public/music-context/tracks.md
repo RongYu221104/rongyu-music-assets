@@ -307,3 +307,21 @@ Miles Davis 的原作采用十二小节布鲁斯结构。1959 年 *Kind of Blue*
 **录音**：1977-08-23—25，Capitol Studios，洛杉矶；后收入扩展版。
 
 《All Of You》出自 Cole Porter 为 *Silk Stockings* 写作的歌曲。Evans 的三重奏版本录于 1977 年，未列入原始 LP，后与另外两首同批录音一起收入扩展版。
+
+## In a Silent Way
+
+### 1. Shhh / Peaceful（LP Mix）
+
+**创作者**：Miles Davis（曲）。<br>
+**原作**：*In a Silent Way*，Columbia Records，1969。<br>
+**录音**：1969-02，Columbia 30th Street Studio，纽约；原始 LP Mix。
+
+这首作品由 Miles Davis 创作，是原始 LP 的第一面。录音编制包括 Davis（小号）、Wayne Shorter（萨克斯管）、Chick Corea（电钢琴）、Joe Zawinul（管风琴）、John McLaughlin（电吉他）、Dave Holland（贝斯）与 Tony Williams（鼓）。Teo Macero 在后期把不同段落剪接并重复组织，使一段录音可以在更长的结构中再次出现；听感因而在缓慢脉冲与大段留白之间循环展开。
+
+### 2. In a Silent Way（LP Mix）
+
+**创作者**：Joe Zawinul（曲）；Miles Davis（改编与演奏）。<br>
+**原作**：*In a Silent Way*，Columbia Records，1969。<br>
+**录音**：1969-02，Columbia 30th Street Studio，纽约；原始 LP Mix。
+
+这首作品以 Joe Zawinul 的旋律材料为基础，收录在原始 LP 的第二面，与《It's About That Time》及回到题名旋律的段落连成一首长篇组曲。Davis 的小号在电钢琴、管风琴、电吉他、贝斯与鼓构成的稀疏织体上进入，后期剪辑把即兴段落与主题材料连接起来；网站音频保留原始 LP Mix 的连续结构。

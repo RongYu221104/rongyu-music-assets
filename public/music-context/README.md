@@ -5,8 +5,8 @@
 ## 馆藏范围
 
 - 5 位核心音乐家：Bill Evans、Miles Davis、Dave Brubeck、Paul Desmond、Jim Hall
-- 6 张专辑：*From Left to Right*、*Kind of Blue*、*Time Out*、*Undercurrent*、*Waltz for Debby*、*You Must Believe in Spring*
-- 32 首曲目：与 `../audio/` 当前馆藏逐一对应
+- 7 张专辑：*From Left to Right*、*Kind of Blue*、*Time Out*、*Undercurrent*、*Waltz for Debby*、*You Must Believe in Spring*、*In a Silent Way*
+- 42 首曲目：与 `../audio/` 当前馆藏逐一对应
 
 ## 阅读入口
 
@@ -23,10 +23,10 @@
 2. 没有可靠的一手自述时，不替音乐家虚构“创作心境”。此类条目会明确写成“未查到可核验自述”。
 3. 作曲、作词与演奏分别署名。*Blue in Green* 的历史署名争议亦如实保留。
 4. 人物照片和插图只采用公有领域、明确开放许可或“无已知出版限制”的馆藏图，并在 `sources.md` 逐张记录。
-5. 本批资料核验日期为 2026-08-19。网页可能迁移，永久馆藏链接优先。
+5. 本批资料核验日期为 2026-08-28。网页可能迁移，永久馆藏链接优先。
 
 ## 接口约定
 
 `api/v1/context.json` 是静态、跨页面可缓存的只读接口，包含 `artists`、`albums`、`tracks` 三组实体。每个实体都有稳定 `id`、正文段落、元数据、图片及来源入口；网站只保存这些稳定 ID，不复制背景正文。
 
-修改 Markdown 后运行 `python scripts/build_music_context_api.py`，生成文件中的覆盖数必须保持为 5 位音乐家、6 张专辑和 32 首曲目。
+修改 Markdown 后运行 `python scripts/build_music_context_api.py`，生成文件中的覆盖数必须保持为 5 位音乐家、7 张专辑和 42 首曲目。

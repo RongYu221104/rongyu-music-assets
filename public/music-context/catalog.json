@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-08-22",
+  "verifiedAt": "2026-08-28",
   "language": "zh-CN",
   "scope": {
     "artists": 5,
-    "albums": 6,
-    "tracks": 40
+    "albums": 7,
+    "tracks": 42
   },
   "documents": {
     "artists": "./artists.md",
@@ -27,6 +27,7 @@
     {"id": "time-out", "title": "Time Out", "artist": "The Dave Brubeck Quartet", "trackCount": 7},
     {"id": "undercurrent", "title": "Undercurrent", "artist": "Bill Evans & Jim Hall", "trackCount": 6},
     {"id": "waltz-for-debby", "title": "Waltz for Debby", "artist": "Bill Evans Trio", "trackCount": 7},
-    {"id": "you-must-believe-in-spring", "title": "You Must Believe in Spring", "artist": "Bill Evans Trio", "trackCount": 10}
+    {"id": "you-must-believe-in-spring", "title": "You Must Believe in Spring", "artist": "Bill Evans Trio", "trackCount": 10},
+    {"id": "in-a-silent-way", "title": "In a Silent Way", "artist": "Miles Davis", "trackCount": 2}
   ]
 }

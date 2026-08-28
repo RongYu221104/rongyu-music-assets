@@ -23,6 +23,13 @@
 - [Kind of Blue 原版内页文字转录](https://albumlinernotes.com/Kind_of_Blue.html)：Bill Evans 的水墨画比喻、曲目方法与原始署名。转录站并非唱片公司，故只与官方录音资料交叉使用。
 - [MusicBrainz：Kind of Blue](https://musicbrainz.org/release/7299a7ad-b494-4447-992d-0092b7471d8f)：曲目、人员与录音关系交叉核对。
 
+### Miles Davis / In a Silent Way
+
+- [Miles Davis 官方：In A Silent Way](https://www.milesdavis.com/albums/in-a-silent-way/)：1969 年 2 月录音、1969-07-30 发行、原始两首 LP 曲目、乐队编制与 Teo Macero 的剪辑说明。
+- [Miles Davis 官方商店：In A Silent Way](https://shop.milesdavisstore.com/collections/music/products/in-a-silent-way)：专辑的电声时期定位、曲序与版本信息。
+- [Apple Music：In a Silent Way](https://music.apple.com/us/album/in-a-silent-way/193603857)：发行日期、两首曲目、约 38 分钟时长及电声编制概览。
+- [Mosaic Records：The Complete In A Silent Way Sessions](https://www.mosaicrecords.com/miles-davis-in-a-silent-way-mosaic-records/)：1969-02-18 录音场次、参与乐手与原始 LP 剪辑关系的专业唱片目录核对。
+
 ### Dave Brubeck / Paul Desmond / Time Out
 
 - [美国国会图书馆国家录音保护委员会：Time Out 专文（PDF）](https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TimeOut.pdf)：欧亚巡演、专辑理念、三次录音日期、逐曲节拍与《Take Five》形成过程。

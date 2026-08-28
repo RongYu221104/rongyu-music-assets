@@ -53,3 +53,11 @@ LiPuma 回忆，录音时三个人配合紧密，Evans 也认为专辑达到了�
 专辑后来的献辞与 Evans 家人的离世相关。录音完成于 1977 年，其兄 Harry 于 1979 年去世，相关纪念文字在发行阶段加入。
 
 原始 LP 收录七首曲目。后来的 CD 与数字扩展版加入同批 1977 年录音中的《Without A Song》《Freddie Freeloader》与《All Of You》，网站按十首扩展版曲序收录。
+
+## In a Silent Way｜1969 年录音、剪辑与发行
+
+1969 年 2 月，Miles Davis 在纽约 Columbia 30th Street Studio 录制这张专辑，参与录音的乐手包括 Wayne Shorter、Chick Corea、Joe Zawinul、John McLaughlin、Dave Holland 与 Tony Williams。Davis 的小号、Zawinul 的管风琴、Corea 的电钢琴、McLaughlin 的电吉他以及节奏组共同形成了这张唱片的电声编制；制作人 Teo Macero 负责后期编辑。
+
+原始 LP 只有两首曲目，分别占据唱片两面，都是由多段演奏组织成的长篇作品。《Shhh / Peaceful》以低声部与持续的鼓点展开，再让管风琴、电吉他和小号在留白中彼此回应；《In a Silent Way》则把 Joe Zawinul 的旋律材料与 Davis 乐队的即兴演奏连接起来。专辑的重要结构来自录音室剪辑：部分段落在后期被删接、重复或重新排列，录音室因此成为作品构成的一部分。
+
+Columbia 于 1969 年 7 月 30 日发行 *In a Silent Way*。它处在 Davis 从电声实验走向更大规模融合音乐的转折点，网站收录的两首音频均标注为原始 LP Mix，并按 LP 曲序排列。
